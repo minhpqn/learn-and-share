@@ -1,6 +1,6 @@
 ---
 name: Tóm tắt bài báo
-about: Describe this issue template's purpose here.
+about: Tóm tắt nội dung bài báo
 title: Title
 labels: ''
 assignees: ''
